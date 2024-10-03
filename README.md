@@ -15,7 +15,7 @@ The dashboards are created using Excel's interactive elements, such as slicers, 
 - **Top 10 and Bottom 10 Fighters**: The dashboard allows users to view the top 10 and bottom 10 fighters by rank within each weight class.
 - **Detailed Fighter Profiles**: Each fighter's profile can be explored with information on weight, height, reach, stance, and performance metrics.
 
-87o9![D7E1E005-9C8E-45DA-9E7B-F44547E5E995](https://github.com/user-attachments/assets/d07dde1b-5758-4431-8502-7f8f32e895bd)
+![87091A63-BDBB-4EAF-AB09-9C922898DB1C](https://github.com/user-attachments/assets/be936e78-42b6-41e0-9b9d-3792ffede47d)
 
 ### 2. Data Visualizations
 Several visualizations are used to highlight fighter data:
