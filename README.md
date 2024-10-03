@@ -5,7 +5,7 @@ The **UFC Data Visualization Project** is an analytical dashboard created in Mic
 
 The project is fully documented and organized into a GitHub repository, complete with VBA scripts, Excel files, and supplementary images. It is designed to be an interactive tool for UFC enthusiasts, data analysts, or anyone interested in exploring fighter statistics in a visual format.
 
-![UFC Dashboard Overview](./Images/UFC_Dashboard_Overview.png) <!-- Replace this with your actual image path -->
+![0E9B5F19-1F3E-481B-A1A8-4C4E790FE699](https://github.com/user-attachments/assets/da17ac8b-6ebf-42e3-9e58-4896c6394e30)
 
 ## Project Features
 
@@ -15,7 +15,7 @@ The dashboards are created using Excel's interactive elements, such as slicers, 
 - **Top 10 and Bottom 10 Fighters**: The dashboard allows users to view the top 10 and bottom 10 fighters by rank within each weight class.
 - **Detailed Fighter Profiles**: Each fighter's profile can be explored with information on weight, height, reach, stance, and performance metrics.
 
-![Fighter Attributes Dashboard](./Images/Fighter_Attributes_Dashboard.png) <!-- Replace with your image path -->
+87o9![D7E1E005-9C8E-45DA-9E7B-F44547E5E995](https://github.com/user-attachments/assets/d07dde1b-5758-4431-8502-7f8f32e895bd)
 
 ### 2. Data Visualizations
 Several visualizations are used to highlight fighter data:
@@ -34,7 +34,7 @@ PivotTables are used extensively to analyze fighter statistics:
 ### 4. Fighter Images Integration
 Each fighter's image is displayed on the dashboard, changing dynamically based on the slicer selection. This enhances the visual appeal and provides a quick reference for identifying fighters.
 
-![Dynamic Fighter Images](./Images/Dynamic_Fighter_Images.png) <!-- Replace with your image path -->
+![B4C9799F-A85F-4729-837F-5E43F61157B0](https://github.com/user-attachments/assets/aebdc6dd-3862-41f9-9698-6bd4eff881c5)
 
 ### 5. VBA Scripts for Advanced Functionality
 The project includes VBA scripts for automating certain tasks, such as dynamically updating charts or images based on selections. These scripts are included in the repository for advanced users who want to explore or modify the code.
@@ -42,8 +42,6 @@ The project includes VBA scripts for automating certain tasks, such as dynamical
 ## Project Structure
 The repository is organized as follows:
 
-
-### Detailed File Descriptions
 - **`Fighter_Attributes.xlsx`**: Contains detailed attributes for each fighter, including weight, height, reach, stance, and performance metrics like wins, losses, KO wins, and submission wins.
 - **`UFC_Fighter_Stats.xlsx`**: Aggregated data on fighter statistics, categorized by weight class and gender.
 - **`UFC_Dashboard_v1.xlsx`**: Main dashboard file with slicers, dynamic charts, and interactive elements.
@@ -75,13 +73,13 @@ Contributions to this project are welcome. Please feel free to open issues or su
 
 ## Screenshots
 ### Main Dashboard Overview
-![UFC Dashboard](./Images/UFC_Dashboard_Overview.png) <!-- Replace with your image path -->
+![0E9B5F19-1F3E-481B-A1A8-4C4E790FE699](https://github.com/user-attachments/assets/fbcf14f4-6ab2-4dbb-b179-434bfa81124c)
 
 ### Fighter Attributes Dashboard
-![Fighter Attributes Dashboard](./Images/Fighter_Attributes_Dashboard.png) <!-- Replace with your image path -->
+![1ADB0CC9-CBE5-4F1F-B335-95E6C23FC813](https://github.com/user-attachments/assets/a519dc5b-7484-4ecb-a2ba-a215236d60a2)
 
 ### Fighter Images
-![Dynamic Fighter Images](./Images/Dynamic_Fighter_Images.png) <!-- Replace with your image path -->
+![B4C9799F-A85F-4729-837F-5E43F61157B0](https://github.com/user-attachments/assets/83d47f43-6004-4a57-988b-9c5104efafb2)
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
